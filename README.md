@@ -1,10 +1,11 @@
 <div align="center">
-  <h1><a href="https://www.udemy.com/course/jetpack-compose-uygulama-gelistirme-rehberi/?referralCode=FDD0C1F4F2BB4C54B325">Jetpack Compose: İleri Seviye Uygulama Geliştirme Rehberi</a></h1> 
+  <h1><a href="https://www.udemy.com/course/jetpack-compose-uygulama-gelistirme-rehberi/?referralCode=FDD0C1F4F2BB4C54B325">⭐️ Jetpack Compose ⭐️ <br>İleri Seviye Uygulama Geliştirme Rehberi</a></h1> 
 </div>
 
 <div align="center">
   
-  ![Jetpack Compose: İleri Seviye Uygulama Geliştirme Rehberi ](https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Geli-tirme-Rehberi/assets/52867508/e45dddad-f078-4b20-a731-e690ad277258)
+  [![Kurs](https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Geli-tirme-Rehberi/assets/52867508/e45dddad-f078-4b20-a731-e690ad277258)](https://www.udemy.com/course/jetpack-compose-uygulama-gelistirme-rehberi/?referralCode=FDD0C1F4F2BB4C54B325)
+  
 </div>
 
 <!--Kurs Bilgileri-->
