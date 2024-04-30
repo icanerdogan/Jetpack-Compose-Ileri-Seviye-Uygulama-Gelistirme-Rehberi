@@ -1,5 +1,5 @@
 <div align="center">
-  <h1><a href="https://www.udemy.com/course/jetpack-compose-uygulama-gelistirme-rehberi/?referralCode=FDD0C1F4F2BB4C54B325">⭐️ Jetpack Compose: İleri Seviye Uygulama Geliştirme Rehberi ⭐️</a></h1> 
+  <h1><a href="https://www.udemy.com/course/jetpack-compose-uygulama-gelistirme-rehberi/?referralCode=FDD0C1F4F2BB4C54B325">Jetpack Compose: İleri Seviye Uygulama Geliştirme Rehberi</a></h1> 
 </div>
 
 <div align="center">
