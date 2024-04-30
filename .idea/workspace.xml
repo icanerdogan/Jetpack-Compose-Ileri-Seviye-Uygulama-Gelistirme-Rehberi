@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="NONE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="19c235c3-527a-4765-b008-b68eed26a17b" name="Changes" comment="" />
+    <list default="true" id="19c235c3-527a-4765-b008-b68eed26a17b" name="Changes" comment="Contacts App finished." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,9 +19,9 @@
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 2
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="2fpm5BpJszYVYeZFFnG8wd7a5z8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -37,6 +37,7 @@
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.cidr.known.project.marker": "true",
     "RunOnceActivity.readMode.enableVisualFormatting": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "cf.first.check.clang-format": "false",
     "cidr.known.project.marker": "true",
     "git-widget-placeholder": "main",
@@ -52,9 +53,65 @@
       <option name="presentableId" value="Default" />
       <updated>1714506207614</updated>
     </task>
+    <task id="LOCAL-00001" summary="Portfolio App finished.">
+      <option name="closed" value="true" />
+      <created>1714506720501</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1714506720501</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Money Counter App finished.">
+      <option name="closed" value="true" />
+      <created>1714506792240</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1714506792240</updated>
+    </task>
+    <task id="LOCAL-00003" summary="Tip Calculator App finished.">
+      <option name="closed" value="true" />
+      <created>1714506815595</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1714506815595</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Basic Movie Library App finished.">
+      <option name="closed" value="true" />
+      <created>1714506841570</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1714506841570</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Unit Converter App finished.">
+      <option name="closed" value="true" />
+      <created>1714506867056</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1714506867056</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Contacts App finished.">
+      <option name="closed" value="true" />
+      <created>1714506909915</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1714506909915</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="Portfolio App finished." />
+    <MESSAGE value="Money Counter App finished." />
+    <MESSAGE value="Tip Calculator App finished." />
+    <MESSAGE value="Basic Movie Library App finished." />
+    <MESSAGE value="Unit Converter App finished." />
+    <MESSAGE value="Contacts App finished." />
+    <option name="LAST_COMMIT_MESSAGE" value="Contacts App finished." />
   </component>
 </project>
