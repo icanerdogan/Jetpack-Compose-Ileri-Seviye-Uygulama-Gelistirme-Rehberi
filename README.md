@@ -8,6 +8,8 @@
   
 </div>
 
+<h1>Kurs Bilgileri</h1>
+
 <!--Kurs Bilgileri-->
 <div>
   <h2>Kurs Açıklaması</h2>
@@ -28,9 +30,47 @@
   <p>Bu kursu tamamladıktan sonra, Jetpack Compose'u ustalıkla kullanarak gelişmiş Android uygulamaları geliştirebileceksiniz. Modern UI tasarımı, veri yönetimi, performans optimizasyonu ve daha fazlası konusunda derin bir bilgiye sahip olacaksınız.</p>
 </div>
 
+<!--Course Applications -->
+<h1> Kurs Uygulamaları </h1>
+
+<!-- KOLAY -->
+<details>
+  <summary> <h2> 🟢 Kolay 🟢 </h2> </summary>
+  <ul>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Gelistirme-Rehberi/tree/main/Portfolio%20App">Portfolio Tanıtım Uygulaması</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Gelistirme-Rehberi/tree/main/Money%20Counter%20App">Para Sayma Uygulaması</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Gelistirme-Rehberi/tree/main/Tip%20Calculator%20App">Bahşiş Hesaplama Uygulaması</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Gelistirme-Rehberi/tree/main/Basic%20Movie%20Library%20App">Basit Film Uygulaması</a></h3></li>
+  </ul>
+</details>
+
+<!-- ORTA -->
+<details>
+  <summary> <h2> 🟡 Orta 🟡 </h2> </summary>
+  <ul>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Gelistirme-Rehberi/tree/main/Unit%20Converter%20App">Birim Çevirme Uygulaması</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Gelistirme-Rehberi/tree/main/Contacts%20App">Kişiler Rehber Uygulaması</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Gelistirme-Rehberi/tree/main/Notepad%20App">Note Defteri Uygulaması</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Gelistirme-Rehberi">Soru&Cevap Uygulaması - Yakında!</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Gelistirme-Rehberi/tree/main/Calculator%20App">Hesap Makinesi Uygulaması</a></h3></li>
+  </ul>
+</details>
+
+
+<!-- ZOR -->
+<details>
+  <summary> <h2> 🔴 Zor 🔴 </h2> </summary>
+  <ul>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Gelistirme-Rehberi/tree/main/Crypto%20App">Kripto Para Uygulaması</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Gelistirme-Rehberi">Gelişmiş Film Kütüphane Uygulaması - Yakında!</a></h3></li>
+    <li><h3><a href="https://github.com/icanerdogan/Jetpack-Compose-Ileri-Seviye-Uygulama-Gelistirme-Rehberi">Haberler Uygulaması - Yakında!</a></h3></li>
+  </ul>
+
+</details>
+
 <!--Eğitmen-->
 <div>
-  <h2>Eğitmen</h2>
+  <h1>Eğitmen</h1>
   <p>
     Merhabalar,
     Ben İbrahim Can Erdoğan, Balıkesir Üniversitesi Endüstri mühendisliği bölümünden 2022 senesinde mezun oldum. Java ve Kotlin ile ileri seviye Android uygulamaları geliştiriyorum. Android alanında çalışmalarımı   
